@@ -1,0 +1,10 @@
+
+[caps]
+platformName = "Android"
+deviceName = "Pixel 4 API 30"
+app = "C:\Users\oileans\Desktop\mobile_api_tst\features\app\android\webmotors.apk"
+autoGrantPermissions = true
+newCommandTimeout = 3600
+[appium_lib]
+wait = 20
+debug = false

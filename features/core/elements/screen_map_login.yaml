@@ -1,0 +1,5 @@
+android:
+  login:
+    btn_login:
+      identificador: 'ID'
+      valor: ''
